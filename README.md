@@ -43,7 +43,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* [require-issue-ref](./docs/rules/require-issue-ref.md)
+* [require-issue-ref](https://github.com/dmitrydwhite/no-todo-without-ticket/blob/master/docs/rules/require-issue-ref.md)
 
 
 
