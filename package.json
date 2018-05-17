@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-todo-without-ticket",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fix or warnings must have issue number associated",
   "keywords": [
     "eslint",
