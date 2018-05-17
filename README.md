@@ -43,7 +43,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* require-issue-ref
+* [require-issue-ref](./docs/rules/require-issue-ref.md)
 
 
 
